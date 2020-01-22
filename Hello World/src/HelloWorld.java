@@ -30,6 +30,12 @@ public class HelloWorld {
       int secondValue = 2000000000;
       sum = (long)firstValue + secondValue;
       System.out.println("두수의 합은: " + sum); 
+      
+      //1. variableclass 클래스선언(main)
+      //2. int sum,num1,num2,num3
+      //3. num1->100, num2->90, num3->80
+      //4. sum-> num1, num2, num3 할당
+      //5. sum의 값을 콘솔화면에 출력
 
    }
 }
