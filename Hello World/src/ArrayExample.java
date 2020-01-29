@@ -3,7 +3,9 @@ public class ArrayExample {
 public static void main(String[] args) {
 //************************************************
 	int[] intAry = { 2, 3, 4, 5 };   // 인트를 담을 수 있는 배열 타입
-	
+	int[] int2Ary = new int[5];
+	int2Ary[0] = 1;
+	int2Ary[4] = 1;
 	
 	System.out.println(intAry[0]);
 	System.out.println(intAry[1]);
