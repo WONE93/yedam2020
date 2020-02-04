@@ -70,7 +70,7 @@ public class StudentArrayExample {
 		for (int j = 0; j < sortAry.length; j++) {
 			System.out.print(sortAry[j] + " ");
 			
-			Studnet s1 = getStudent("choi");
+			Student s1 = getStudent("choi");
 			System.out.println(s1);
 		}
 		
